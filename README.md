@@ -5,9 +5,6 @@ Deep learning based Sentiment analysis for different aspects
 
 
 optional arguments:
-
-  -h,            --help            
-		show this help message and exit
   
   -b  ,         --batch_size 
 
